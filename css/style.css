@@ -1,0 +1,43 @@
+body {
+    background-color:darkcyan;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+
+button {
+    margin-top: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 50px;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+table {
+    margin-bottom: 20px;
+    margin: auto;
+}
+
+table td {
+    width: 40px;
+    height:40px;
+    text-align: center;
+    font-size:1em;
+    background-color: orangered;
+}
+
+.information {
+    margin-top: 20px;
+}
+
+.clicked {
+    background-color: lightgreen
+}
+
+.mine {
+    background-color:darkred;
+}
