@@ -10,7 +10,7 @@ button {
     margin: auto;
     margin-bottom: 20px;
     border-radius: 50px;
-    font-size: 15px;
+    font-size: 18px;
 }
 
 button:hover {
@@ -40,4 +40,9 @@ table td {
 
 .mine {
     background-color:darkred;
+}
+
+.lives {
+    margin-top: 20px;
+    font-size: 30px;
 }
